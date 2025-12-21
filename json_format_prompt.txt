@@ -1,0 +1,305 @@
+ Understood 👍
+Below is a **clean, professional, video-engine–ready JSON**, updated to:
+
+* 👧 **Human girl (realistic, not cartoon)**
+* ⏱ **Each scene max 8 seconds** (micro-learning style)
+* 🗣 **Voiceover text per beat (short, punchy, kid-friendly)**
+* 🎬 Suitable for **Shorts/Reels + full video stitching**
+* 🎯 Consistent human host across all scenes
+
+---
+
+## 👧 HUMAN HOST – GLOBAL CHARACTER REFERENCE
+
+```json
+{
+  "character_reference": {
+    "name": "Aira",
+    "type": "Human girl",
+    "description": "Real human girl, age 11–13, friendly and confident, natural smile, expressive eyes, casual colorful clothes, modern kid presenter style, well-lit studio or bright learning environment, realistic cinematic video, consistent appearance across scenes"
+  }
+}
+```
+
+---
+
+## 🎬 SCENE 1 – Welcome to AI (8s)
+
+```json
+{
+  "scene_id": 1,
+  "title": "Welcome to AI",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–3s",
+      "visual": "Aira waves at camera",
+      "voiceover": "Hi! I’m Aira."
+    },
+    {
+      "time": "3–8s",
+      "visual": "Simple AI icons appear beside her",
+      "voiceover": "Today, let’s learn about Artificial Intelligence."
+    }
+  ],
+  "transition_out": "Quick fade"
+}
+```
+
+---
+
+## 🎬 SCENE 2 – AI as a Smart Helper (8s)
+
+```json
+{
+  "scene_id": 2,
+  "title": "AI as a Smart Helper",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Eye, ear, and brain icons appear",
+      "voiceover": "AI is like a smart helper."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Watching and listening visuals",
+      "voiceover": "It learns by watching and listening."
+    }
+  ],
+  "transition_out": "Slide-left"
+}
+```
+
+---
+
+## 🎬 SCENE 3 – How AI Learns (8s)
+
+```json
+{
+  "scene_id": 3,
+  "title": "How AI Learns",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Images and books float in",
+      "voiceover": "AI learns from examples."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Patterns connect together",
+      "voiceover": "The more it sees, the smarter it gets."
+    }
+  ],
+  "transition_out": "Crossfade"
+}
+```
+
+---
+
+## 🎬 SCENE 4 – Generative AI (8s)
+
+```json
+{
+  "scene_id": 4,
+  "title": "Generative AI",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Art and music visuals appear",
+      "voiceover": "Generative AI creates new things."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Stories and poems animate",
+      "voiceover": "Like drawings, music, and stories."
+    }
+  ],
+  "transition_out": "Sparkle fade"
+}
+```
+
+---
+
+## 🎬 SCENE 5 – Traditional vs Generative AI (8s)
+
+```json
+{
+  "scene_id": 5,
+  "title": "Traditional vs Generative AI",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Calculator graphic",
+      "voiceover": "Traditional AI follows rules."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Creative visuals",
+      "voiceover": "Generative AI imagines."
+    }
+  ],
+  "transition_out": "Split wipe"
+}
+```
+
+---
+
+## 🎬 SCENE 6 – AI in Real Life (8s)
+
+```json
+{
+  "scene_id": 6,
+  "title": "AI in Real Life",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "School and phone visuals",
+      "voiceover": "AI helps in schools and phones."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Hospital and traffic lights",
+      "voiceover": "And even in hospitals and roads."
+    }
+  ],
+  "transition_out": "Fast fade"
+}
+```
+
+---
+
+## 🎬 SCENE 7 – Prompts (8s)
+
+```json
+{
+  "scene_id": 7,
+  "title": "Prompts",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Text bubble appears",
+      "voiceover": "A prompt is what we tell AI."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Clear instructions highlighted",
+      "voiceover": "Clear words give better answers."
+    }
+  ],
+  "transition_out": "Pop-out"
+}
+```
+
+---
+
+## 🎬 SCENE 8 – Transformers (8s)
+
+```json
+{
+  "scene_id": 8,
+  "title": "Transformers",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Sentence on screen",
+      "voiceover": "Transformers help AI focus."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Important words highlighted",
+      "voiceover": "They notice important words."
+    }
+  ],
+  "transition_out": "Highlight fade"
+}
+```
+
+---
+
+## 🎬 SCENE 9 – LLMs (8s)
+
+```json
+{
+  "scene_id": 9,
+  "title": "Large Language Models",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Books appear",
+      "voiceover": "LLMs learn language."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Text flowing",
+      "voiceover": "By reading lots of text."
+    }
+  ],
+  "transition_out": "Page turn"
+}
+```
+
+---
+
+## 🎬 SCENE 10 – Python & RPA (8s)
+
+```json
+{
+  "scene_id": 10,
+  "title": "Python and RPA",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Python code visuals",
+      "voiceover": "Python helps build AI."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Automation arrows",
+      "voiceover": "RPA automates boring work."
+    }
+  ],
+  "transition_out": "Slide-up"
+}
+```
+
+---
+
+## 🎬 SCENE 11 – Future of AI (8s)
+
+```json
+{
+  "scene_id": 11,
+  "title": "Future of AI",
+  "duration_seconds": 8,
+  "beats": [
+    {
+      "time": "0–4s",
+      "visual": "Crayons metaphor",
+      "voiceover": "AI is like crayons."
+    },
+    {
+      "time": "4–8s",
+      "visual": "Positive creations",
+      "voiceover": "Let’s use it wisely and kindly."
+    }
+  ],
+  "transition_out": "Fade to black"
+}
+```
+
+---
+
+### ✅ TOTAL RUNTIME
+
+* **11 scenes × 8 seconds = 88 seconds**
+* Perfect for **YouTube Shorts series**, **Reels**, or stitched **educational video**
+

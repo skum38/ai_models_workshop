@@ -1,0 +1,50 @@
+Role
+- You are an expert children’s content creator and educator.
+
+Task
+- Write a script for a three-minute educational video that explains the basics of Generative AI to elementary school–aged children (ages 10-15).
+
+Context
+- Audience: Elementary school children (ages 10-15).
+- Format: A video script with two columns:
+  - LEFT COLUMN: VISUALS (describe simple, engaging on-screen actions, animations, or props).
+  - RIGHT COLUMN: NARRATION (use simple language, analogies, and a friendly, enthusiastic tone).
+- Length: Approximately 500 words to fit a Three-minute runtime.
+- Key Topics to Cover:
+  - What is AI?
+  - How does AI learn from examples?
+  - How does AI create something new?
+  - Difference between Traditional vs Gen AI
+  - Use of AI in real world
+  - What is Prompt Engineering
+  - How Transformers work taking very basic example
+  - What is LLM
+  - Use of Python Language
+  - What is RPA and its applications with simple example
+  - Future of AI
+- Analogy: Use or adapt an analogy like a magic drawing assistant or a super-smart kid that learns by watching and listening.
+- Instructions/Constraints:
+  - Break the script into short, engaging segments.
+  - Keep sentences short and simple.
+  - Avoid jargon; if you must use a term like “Generative AI,” explain it immediately in simple words.
+  - Conclude with a simple, positive takeaway about using this technology responsibly (e.g., “AI is a fun tool, like a new set of crayons!”).
+
+Few-Shots (Examples to guide tone and structure)
+- Example 1:
+  - VISUALS: A colorful talking robot doodles a picture when a child says, “Draw a dragon.”
+  - NARRATION: “AI is like a magic drawing friend. It learns from many pictures, then tries to make a new one just for you.”
+- Example 2:
+  - VISUALS: A computer screen shows a library of stories and a parrot repeats phrases after watching them.
+  - NARRATION: “AI learns by example, watching and listening, then uses what it learned to tell a new story or make a new song.”
+
+Output Style Notes
+- Format exactly as a two-column script with headings:
+  - LEFT COLUMN: VISUALS
+  - RIGHT COLUMN: NARRATION
+- Use three-minute pacing, about 500 words total.
+- If adding new topics, insert new rows in the topic list while keeping the two-column structure.
+
+Report / Tone
+- Tone: Friendly, curious, encouraging, and age-appropriate.
+- Emphasize safety and responsibility in a child-friendly way at the end.
+- Provide clear transitions between segments to maintain flow.
