@@ -1,16 +1,3 @@
- Understood 👍
-Below is a **clean, professional, video-engine–ready JSON**, updated to:
-
-* 👧 **Human girl (realistic, not cartoon)**
-* ⏱ **Each scene max 8 seconds** (micro-learning style)
-* 🗣 **Voiceover text per beat (short, punchy, kid-friendly)**
-* 🎬 Suitable for **Shorts/Reels + full video stitching**
-* 🎯 Consistent human host across all scenes
-
----
-
-## 👧 HUMAN HOST – GLOBAL CHARACTER REFERENCE
-
 ```json
 {
   "character_reference": {
@@ -295,11 +282,3 @@ Below is a **clean, professional, video-engine–ready JSON**, updated to:
   "transition_out": "Fade to black"
 }
 ```
-
----
-
-### ✅ TOTAL RUNTIME
-
-* **11 scenes × 8 seconds = 88 seconds**
-* Perfect for **YouTube Shorts series**, **Reels**, or stitched **educational video**
-
