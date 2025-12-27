@@ -1,0 +1,2 @@
+Think of Transformers (like Hugging Face's library) as the powerful engine or core processor (the actual brain understanding language), 
+while LangChain is the entire vehicle and dashboard
