@@ -17,16 +17,11 @@ webLoader=WebBaseLoader("https://www.signitysolutions.com/blog/langchain-vs.-tra
 web_data=webLoader.load()
 #print("Web data:", web_data, "\n")
 
-# web loader with selenium (for dynamic content)
+# web loader with playeright (for dynamic content)
 #use a browser-based loader (Playwright or Selenium) that executes JavaScript. Example using PlaywrightURLLoader.
 #pip install langchain playwright
 #python -m playwright install chromium
 #pip install unstructured
-
-#webLoader=PlaywrightURLLoader(["https://medium.com/@shivanishah0218/langchain-or-transformers-knowing-the-right-tool-for-the-job-c284380edc16"])  
-#dynamic_web_data=webLoader.load()
-#print("Web data:", dynamic_web_data, "\n")
-
 
 
 URL = "https://medium.com/@shivanishah0218/langchain-or-transformers-knowing-the-right-tool-for-the-job-c284380edc16"
